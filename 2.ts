@@ -1,1 +1,0 @@
-confirm('Do you know?');
